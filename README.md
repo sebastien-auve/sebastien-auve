@@ -25,7 +25,8 @@ I specialize in creating data-driven solutions, with experience in retail and ba
 ## **🎓 Certifications**  
 
 - **AWS Certified Cloud Practitioner** *(2024)*  
-- **Microsoft Certified Azure AI Fundamentals** *(2024)*  
+- **Microsoft Certified Azure AI Fundamentals** *(2024)*
+- **Microsoft Certified Fabric Analytics Engineer Associate** *(2025)*
 
 
 ## **📌 Let's Connect**  
