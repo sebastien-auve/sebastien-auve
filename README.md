@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Sébastien Auve  
-**French Data Scientist & Data Engineer | Based in Montreal, Canada**  
+**Data Scientist & Data Engineer | Based in Montreal, Canada**  
 
 I specialize in creating data-driven solutions, with experience in retail and banking. Passionate about leveraging data science and engineering to drive innovation and business impact.  
 
