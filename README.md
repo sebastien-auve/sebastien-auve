@@ -31,6 +31,5 @@ I specialize in creating data-driven solutions, with experience in retail and ba
 
 ## **📌 Let's Connect**  
 
-- 🌐 [Personal Website](https://sebastienauve.fr)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebastien-auve/)
 - 💻 [LeetCode](https://leetcode.com/u/sebastien_auve/)
